@@ -1,0 +1,4 @@
+Flask
+daisykit
+opencv-python
+requests
